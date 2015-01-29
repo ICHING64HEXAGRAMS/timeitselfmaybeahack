@@ -1,5 +1,10 @@
-# timeitselfmaybeahack
-Time itself is a valuable commodity: when humans are viewed as units within an ecological wholistic meme: 28 day, 13 moon day and moon calendar calculator written in 2002 javascript
+# timeisahack
+
+
+
+description: Time itself is a valuable commodity: when humans are viewed as units within an ecological wholistic meme: 28 day, 13 moon day and moon calendar calculator written in 2002 javascript
+     
+     
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
